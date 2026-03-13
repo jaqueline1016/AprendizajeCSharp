@@ -1,6 +1,9 @@
 ﻿// Tienda Pociones Magicas  
 Console.WriteLine("Tienda de Pociones Magicas");
 
+
+
+// ingresar datos de la posicion por el usuario 
 string nombrePosion = "Pocion de Vida";
 int cantidad = 5;
 double precio = 10.0;
